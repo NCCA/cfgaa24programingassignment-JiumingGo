@@ -65,8 +65,9 @@ cmake -DCMAKE_TOOLCHAIN_FILE=[vcpkg toolchain location] ..
 cmake --build .
 ```
 ### The video is in image/gameplayer.mp4
-<video width="720" height="1280" controls>
-  <source src="./image/gameplay.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/NCCA/cfgaa24programingassignment-JiumingGo/assets/152978699/0b075d1f-73d7-4fe0-9d91-1c62772e10af
+
+
 
